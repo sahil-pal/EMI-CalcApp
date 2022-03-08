@@ -1,16 +1,22 @@
 # emi_calc_app
+An EMI calculator multi-platform app using Flutter.
 
-A new Flutter project.
 
-## Getting Started
+## How to run the App
+1. Fork or download the project and extract it.
+2. Open Terminal / CMD and go to project directory
+3. Run the **pub get** command to install the dependencies
+4. Run the **flutter run** command to run the Application
+5. Choose emulator / Simulator or Chrome
 
-This project is a starting point for a Flutter application.
+## Dependencies/Technology used
+1. Flutter
+2. GoogleFonts
+3. Pie chart
 
-A few resources to get you started if this is your first Flutter project:
+## How it looks like 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1646746054](https://user-images.githubusercontent.com/69889824/157248404-c848135e-eb66-4701-aa68-b38e93d101af.png)
+
+
