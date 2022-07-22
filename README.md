@@ -16,7 +16,7 @@ An EMI calculator multi-platform app using Flutter.
 
 ## How it looks like 
 
+<img src="https://user-images.githubusercontent.com/69889824/157248404-c848135e-eb66-4701-aa68-b38e93d101af.png" width="300" height="650">
 
-![Screenshot_1646746054](https://user-images.githubusercontent.com/69889824/157248404-c848135e-eb66-4701-aa68-b38e93d101af.png)
 
 
